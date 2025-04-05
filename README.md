@@ -1,6 +1,6 @@
 Software engineer
 
-## Skills
+### Skills
 React
 NestJS
 Ruby on Rails
