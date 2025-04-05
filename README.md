@@ -1,4 +1,4 @@
-Software engineer
+Software Engineer
 
 ### Skills
 - React
