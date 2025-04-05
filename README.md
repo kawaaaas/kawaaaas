@@ -5,4 +5,5 @@ Software Engineer
 - NestJS
 - Ruby on Rails
 - Terraform
-- TypeScript, JavaScript, Ruby, HCL
+- Flutter
+- TypeScript, JavaScript, Ruby, HCL, Dart
