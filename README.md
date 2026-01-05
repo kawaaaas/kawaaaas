@@ -1,6 +1,7 @@
 Software Engineer
 
 ### Skills
+- AWS
 - React
 - NestJS
 - Ruby on Rails
